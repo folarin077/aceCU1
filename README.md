@@ -1,3 +1,3 @@
 # aceCU1
 
-This is test confirmation and ensuring the application is well docuemented.
+This is a test confirmation and ensures the application is well documented.
